@@ -11,3 +11,129 @@
 2019-07-24 17:45:29,044 [main] INFO helpers.Log - Verify Home page small text displays
 2019-07-24 17:45:29,086 [main] INFO helpers.Log - Verify header displays
 2019-07-24 17:45:29,125 [main] INFO helpers.Log - Verify header displays
+2019-11-11 17:16:12,078 [main] INFO helpers.Log - Homepage displays
+2019-11-11 17:16:13,745 [main] INFO helpers.Log - Click Login button
+2019-11-11 17:16:15,347 [main] INFO helpers.Log - Enter username
+2019-11-11 17:16:15,598 [main] INFO helpers.Log - Enter password
+2019-11-11 17:16:15,763 [main] INFO helpers.Log - Click Login Button
+2019-11-11 17:16:15,963 [main] INFO helpers.Log - Verify Board page
+2019-11-11 17:16:19,152 [main] INFO helpers.Log - Click new board
+2019-11-11 17:16:19,376 [main] INFO helpers.Log - entering board title
+2019-11-11 17:16:19,791 [main] INFO helpers.Log - selecting board display
+2019-11-11 17:16:20,378 [main] INFO helpers.Log - Click create board button
+2019-11-11 17:16:20,595 [main] INFO helpers.Log - Verify Board header
+2019-11-11 17:16:21,587 [main] INFO helpers.Log - Enter List title
+2019-11-11 17:16:22,110 [main] INFO helpers.Log - Click add list button
+2019-11-11 17:16:22,217 [main] INFO helpers.Log - Verify List Title
+2019-11-11 17:16:22,398 [main] INFO helpers.Log - Click add card icon
+2019-11-11 17:16:22,513 [main] INFO helpers.Log - Enter Card title
+2019-11-11 17:16:22,860 [main] INFO helpers.Log - Click add card green button
+2019-11-11 17:16:22,995 [main] INFO helpers.Log - Verify Cardpage
+2019-11-11 17:16:26,310 [main] INFO helpers.Log - Homepage displays
+2019-11-11 17:16:28,042 [main] INFO helpers.Log - Click Login button
+2019-11-11 17:16:28,239 [main] INFO helpers.Log - Enter username
+2019-11-11 17:16:29,754 [main] INFO helpers.Log - Enter password
+2019-11-11 17:16:29,926 [main] INFO helpers.Log - Click Login Button
+2019-11-11 17:16:30,172 [main] INFO helpers.Log - Verify Board page
+2019-11-11 17:16:33,196 [main] INFO helpers.Log - Click new board
+2019-11-11 17:16:33,458 [main] INFO helpers.Log - entering board title
+2019-11-11 17:16:33,902 [main] INFO helpers.Log - selecting board display
+2019-11-11 17:16:34,450 [main] INFO helpers.Log - Click create board button
+2019-11-11 17:16:34,700 [main] INFO helpers.Log - Verify Board header
+2019-11-11 17:16:35,707 [main] INFO helpers.Log - Enter List title
+2019-11-11 17:16:36,190 [main] INFO helpers.Log - Click add list button
+2019-11-11 17:16:36,345 [main] INFO helpers.Log - Verify List Title
+2019-11-11 17:16:36,737 [main] INFO helpers.Log - Click add card icon
+2019-11-11 17:16:36,912 [main] INFO helpers.Log - Enter Card title
+2019-11-11 17:16:37,400 [main] INFO helpers.Log - Click add card green button
+2019-11-11 17:16:37,498 [main] INFO helpers.Log - Verify Cardpage
+2019-11-11 17:16:39,589 [main] INFO helpers.Log - Click add another list option
+2019-11-11 17:16:39,756 [main] INFO helpers.Log - Enter List title
+2019-11-11 17:16:40,344 [main] INFO helpers.Log - Click add list button
+2019-11-11 17:16:40,491 [main] INFO helpers.Log - Verify List Title
+2019-11-11 17:16:40,593 [main] INFO helpers.Log - Click add card icon
+2019-11-11 17:16:40,774 [main] INFO helpers.Log - Enter Card title
+2019-11-11 17:16:41,237 [main] INFO helpers.Log - Click add card green button
+2019-11-11 17:16:41,362 [main] INFO helpers.Log - Verify Cardpage
+2019-11-11 17:16:43,245 [main] INFO helpers.Log - Enter List title
+2019-11-11 17:16:43,764 [main] INFO helpers.Log - Click add list button
+2019-11-11 17:16:43,936 [main] INFO helpers.Log - Verify List Title
+2019-11-11 17:16:45,126 [main] INFO helpers.Log - Homepage displays
+2019-11-11 17:16:47,011 [main] INFO helpers.Log - Click Login button
+2019-11-11 17:16:48,292 [main] INFO helpers.Log - Enter username
+2019-11-11 17:16:48,510 [main] INFO helpers.Log - Enter password
+2019-11-11 17:16:48,649 [main] INFO helpers.Log - Click Login Button
+2019-11-11 17:16:48,781 [main] INFO helpers.Log - Verify Board page
+2019-11-11 17:16:51,706 [main] INFO helpers.Log - Navigating to url
+2019-11-11 17:16:54,055 [main] INFO helpers.Log - Verify Board header
+2019-11-11 17:16:54,167 [main] INFO helpers.Log - Click Board title
+2019-11-11 17:16:54,591 [main] INFO helpers.Log - Click Board title
+2019-11-11 17:16:58,229 [main] INFO helpers.Log - Homepage displays
+2019-11-11 17:16:59,523 [main] INFO helpers.Log - Click Login button
+2019-11-11 17:17:00,759 [main] INFO helpers.Log - Enter username
+2019-11-11 17:17:01,003 [main] INFO helpers.Log - Enter password
+2019-11-11 17:17:01,136 [main] INFO helpers.Log - Click Login Button
+2019-11-11 17:17:01,258 [main] INFO helpers.Log - Verify Board page
+2019-11-11 17:17:04,183 [main] INFO helpers.Log - Navigating to url
+2019-11-11 17:17:06,562 [main] INFO helpers.Log - Verify Board header
+2019-11-11 17:17:06,658 [main] INFO helpers.Log - Clicking Card
+2019-11-11 17:17:06,927 [main] INFO helpers.Log - Verify Card Detail Window displays
+2019-11-11 17:17:07,069 [main] INFO helpers.Log - Enter Card Description
+2019-11-11 17:17:07,687 [main] INFO helpers.Log - Clicking Save Button
+2019-11-11 17:17:07,845 [main] INFO helpers.Log - Enter Card Comments
+2019-11-11 17:17:08,307 [main] INFO helpers.Log - Clicking Save Button Comments
+2019-11-11 17:17:08,465 [main] INFO helpers.Log - Clicking Close window
+2019-11-11 17:17:28,700 [main] INFO helpers.Log - WebDriverException getMessage-Expected condition failed: waiting for presence of element located by: By.xpath: //*[@class='icon-lg icon-close dialog-close-button js-close-window'] (tried for 20 second(s) with 500 milliseconds interval)
+2019-11-11 17:17:28,707 [main] INFO helpers.Log - WebDriverException done
+2019-11-11 17:17:28,709 [main] INFO helpers.Log - Verify Card Description icon
+2019-11-11 17:17:28,765 [main] INFO helpers.Log - Verify Comments icon
+2019-11-11 17:17:28,814 [main] INFO helpers.Log - Verify Card Comment Number
+2019-11-11 17:17:28,863 [main] INFO helpers.Log - Clicking Card
+2019-11-11 17:17:29,121 [main] INFO helpers.Log - Clear Description
+2019-11-11 17:17:29,429 [main] INFO helpers.Log - Clear Comments
+2019-11-11 17:17:29,754 [main] INFO helpers.Log - Clicking Close window
+2019-11-11 17:17:50,119 [main] INFO helpers.Log - WebDriverException getMessage-Expected condition failed: waiting for presence of element located by: By.xpath: //*[@class='icon-lg icon-close dialog-close-button js-close-window'] (tried for 20 second(s) with 500 milliseconds interval)
+2019-11-11 17:17:50,129 [main] INFO helpers.Log - WebDriverException done
+2019-11-11 17:17:50,130 [main] INFO helpers.Log - Verify icon removed
+2019-11-11 17:17:53,508 [main] INFO helpers.Log - Homepage displays
+2019-11-11 17:17:55,517 [main] INFO helpers.Log - Click Login button
+2019-11-11 17:17:57,133 [main] INFO helpers.Log - Enter username
+2019-11-11 17:17:57,356 [main] INFO helpers.Log - Enter password
+2019-11-11 17:17:57,577 [main] INFO helpers.Log - Click Login Button
+2019-11-11 17:17:57,759 [main] INFO helpers.Log - Verify Board page
+2019-11-11 17:18:00,847 [main] INFO helpers.Log - Navigating to url
+2019-11-11 17:18:03,455 [main] INFO helpers.Log - Verify Board header
+2019-11-11 17:18:03,565 [main] INFO helpers.Log - Click Invite icon
+2019-11-11 17:18:03,747 [main] INFO helpers.Log - Enter Invitee Email
+2019-11-11 17:18:06,208 [main] INFO helpers.Log - Click Send Invite Button
+2019-11-11 17:18:06,399 [main] INFO helpers.Log - Verify Invitee Displays
+2019-11-11 17:18:07,648 [main] INFO helpers.Log - Click Invitee Displayed
+2019-11-11 17:18:07,805 [main] INFO helpers.Log - Click Remove From Board
+2019-11-11 17:18:07,983 [main] INFO helpers.Log - Click Remove Member Button
+2019-11-11 17:18:08,148 [main] INFO helpers.Log - Click Remove Member Button
+2019-11-11 17:18:10,848 [main] INFO helpers.Log - Homepage displays
+2019-11-11 17:18:12,297 [main] INFO helpers.Log - Verify header displays
+2019-11-11 17:18:12,358 [main] INFO helpers.Log - Verify Home page text displays
+2019-11-11 17:18:12,428 [main] INFO helpers.Log - Verify header displays
+2019-11-11 17:18:12,533 [main] INFO helpers.Log - Verify Home page text displays
+2019-11-11 17:18:12,635 [main] INFO helpers.Log - Verify header displays
+2019-11-11 17:18:12,698 [main] INFO helpers.Log - Verify Home page text displays
+2019-11-11 17:18:12,801 [main] INFO helpers.Log - Verify header displays
+2019-11-11 17:18:12,862 [main] INFO helpers.Log - Verify Home page text displays
+2019-11-11 17:18:12,954 [main] INFO helpers.Log - Verify header displays
+2019-11-11 17:18:13,064 [main] INFO helpers.Log - Verify Home page small text displays
+2019-11-11 17:18:13,141 [main] INFO helpers.Log - Verify header displays
+2019-11-11 17:18:13,199 [main] INFO helpers.Log - Verify header displays
+2019-11-11 17:26:08,659 [main] INFO helpers.Log - Homepage displays
+2019-11-11 17:26:10,123 [main] INFO helpers.Log - Verify header displays
+2019-11-11 17:26:10,192 [main] INFO helpers.Log - Verify Home page text displays
+2019-11-11 17:26:10,265 [main] INFO helpers.Log - Verify header displays
+2019-11-11 17:26:10,373 [main] INFO helpers.Log - Verify Home page text displays
+2019-11-11 17:26:10,433 [main] INFO helpers.Log - Verify header displays
+2019-11-11 17:26:10,491 [main] INFO helpers.Log - Verify Home page text displays
+2019-11-11 17:26:10,616 [main] INFO helpers.Log - Verify header displays
+2019-11-11 17:26:10,703 [main] INFO helpers.Log - Verify Home page text displays
+2019-11-11 17:26:10,829 [main] INFO helpers.Log - Verify header displays
+2019-11-11 17:26:11,009 [main] INFO helpers.Log - Verify Home page small text displays
+2019-11-11 17:26:11,169 [main] INFO helpers.Log - Verify header displays
+2019-11-11 17:26:11,292 [main] INFO helpers.Log - Verify header displays

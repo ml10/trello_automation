@@ -21,8 +21,8 @@ http://maven.apache.org/POM/4.0.0 ">
     <scm.revision.number>unknown</scm.revision.number>
     <scm.build.number>0</scm.build.number>
 
-    <maven.compiler.target>1.7</maven.compiler.target>
-    <maven.compiler.source>1.7</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+    <maven.compiler.source>1.8</maven.compiler.source>
   </properties>
 
   <dependencies>
