@@ -36,9 +36,6 @@ public class Hooks {
     System.out.println("openBrowser: browser " + browser);
     switch (browser) {
     case "chrome":
-
-      if (StringUtils.isEmpty(System.getProperty("webdriver.chrome.driver")))
-        System.setProperty("webdriver.chrome.driver", "//Applications//chrome//chromedriver");
       ChromeOptions options = new ChromeOptions();
       options.addArguments("--disable-extensions");
       options.addArguments("--start-maximized");
@@ -48,8 +45,6 @@ public class Hooks {
       driver.manage().window().setSize(new Dimension(1280, 1024));
       break;
     case "firefox":
-      if (StringUtils.isEmpty(System.getProperty("webdriver.gecko.driver")))
-        System.setProperty("webdriver.gecko.driver", "//Applications//gecko//geckodriver");
       driver = new FirefoxDriver();
       driver.manage().deleteAllCookies();
       driver.manage().window().setSize(new Dimension(1280, 1024));
