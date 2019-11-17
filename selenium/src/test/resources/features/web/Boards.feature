@@ -4,9 +4,7 @@ Feature: Boards Page
   Background:
     Given the Trello home page is loaded
     When the user click the login button in the Trello homepage
-    And the user enters "testgr100@gmail.com" in the email field in the Trello login page
-    And the user enters "password1" in the password field in the Trello login page
-    And the user clicks the login button in the Trello login page
+    And the user logs into the Trello login page
     Then the user should successfully be logged in to Trello
 
   Scenario: User able to successfully create a new board and add a card
